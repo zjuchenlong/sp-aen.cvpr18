@@ -1,0 +1,5 @@
+chair
+wolf
+sofa
+dog
+boat

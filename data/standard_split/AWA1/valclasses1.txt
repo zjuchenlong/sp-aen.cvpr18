@@ -1,0 +1,13 @@
+beaver
+blue+whale
+siamese+cat
+mole
+elephant
+gorilla
+ox
+sheep
+squirrel
+weasel
+buffalo
+zebra
+lion

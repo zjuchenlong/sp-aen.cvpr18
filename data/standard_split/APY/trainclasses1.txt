@@ -1,0 +1,13 @@
+bird
+boat
+bottle
+car
+cow
+diningtable
+dog
+motorbike
+person
+pottedplant
+sofa
+train
+tvmonitor

@@ -1,0 +1,13 @@
+bat
+polar+bear
+walrus
+wolf
+mouse
+cow
+buffalo
+siamese+cat
+blue+whale
+zebra
+dalmatian
+rhinoceros
+antelope

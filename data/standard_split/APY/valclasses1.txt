@@ -1,0 +1,7 @@
+aeroplane
+bicycle
+bus
+cat
+chair
+horse
+sheep

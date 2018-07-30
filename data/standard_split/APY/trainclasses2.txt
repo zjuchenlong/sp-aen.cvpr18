@@ -1,0 +1,13 @@
+tvmonitor
+person
+bicycle
+car
+diningtable
+horse
+motorbike
+bus
+train
+pottedplant
+bird
+bottle
+chair

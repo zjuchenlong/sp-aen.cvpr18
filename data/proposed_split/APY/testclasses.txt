@@ -1,0 +1,12 @@
+tvmonitor
+goat
+motorbike
+cow
+jetski
+train
+sheep
+statue
+horse
+person
+pottedplant
+donkey

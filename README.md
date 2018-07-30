@@ -3,7 +3,7 @@
 
 This repository contains the code for the following paper:
 
-* Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang, *Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks*. In CVPR, 2018. [[PDF](https://arxiv.org/pdf/1712.01928.pdf)]
+* Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang, *Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks*. In CVPR, 2018. [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf)]
 
 
 Note: This repository is adaptived from [DeepSim](https://github.com/shijx12/DeepSim), [tensorflow-resnet](https://github.com/ry/tensorflow-resnet), Thanks a lot to [Jiaxin Shi](https://github.com/shijx12) from Tsinghua University, and [Yongqin Xian](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)  to release his dataset split and code.
@@ -15,7 +15,7 @@ Note: This repository is adaptived from [DeepSim](https://github.com/shijx12/Dee
 
 ## Get Started
 ### Dataset and Pretrain Model Download
-* Download the dataset ([CUB](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)/[AWA](https://cvml.ist.ac.at/AwA2/)/[aPY](http://vision.cs.uiuc.edu/attributes/)/[SUN](http://vision.cs.princeton.edu/projects/2010/SUN/)) and dataset split file ([proposed_split/standard_split](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)), and save it into directory /SP-AEN-HOME/data/, and change the corresponding path of dataset and split file in **/SP-AEN-HOME/cfg.py**.
+* Download the dataset ([CUB](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)/[AWA](https://cvml.ist.ac.at/AwA2/)/[aPY](http://vision.cs.uiuc.edu/attributes/)/[SUN](http://vision.cs.princeton.edu/projects/2010/SUN/)), and save it into directory /SP-AEN-HOME/data/, and change the corresponding path of dataset and split file in **/SP-AEN-HOME/cfg.py**.
 * Download pretrained CNN model [alexnet](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet), [caffenet](https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet), [resnet](https://github.com/ry/tensorflow-resnet), and save the pretrained model in /SP-AEN-HOME/model/pretrained/imagenet. And download pretrained model [caffenet/fc6](https://lmb.informatik.uni-freiburg.de/resources/binaries/cvpr2016_invert_alexnet/fc6.zip) and save to /SP-AEN-HOME/model/pretrained/generator/caffenet/fc6.  Use **/SP-AEN-HOME/model/caffe2tf.py** to convert the caffemodel format weights to npy format. 
 
 ###  Data Preprocessing
@@ -42,7 +42,7 @@ If you find this code useful, please cite the following paper:
 @inproceedings{chen2018zero,
   title={Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks},
   author={Chen, Long and Zhang, Hanwang and Xiao, Jun and Liu, Wei and Chang, Shih-Fu},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  booktitle={CVPR},
   year={2018}
 }
 ```

@@ -1,0 +1,15 @@
+zebra
+dog
+chair
+aeroplane
+bus
+carriage
+sofa
+bag
+boat
+diningtable
+monkey
+car
+wolf
+bottle
+mug

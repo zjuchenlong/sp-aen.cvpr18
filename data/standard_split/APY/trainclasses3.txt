@@ -1,0 +1,13 @@
+person
+dog
+chair
+bicycle
+car
+boat
+motorbike
+cow
+cat
+bird
+bus
+horse
+sofa

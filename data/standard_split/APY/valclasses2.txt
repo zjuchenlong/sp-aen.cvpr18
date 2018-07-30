@@ -1,0 +1,7 @@
+dog
+cat
+sheep
+sofa
+boat
+aeroplane
+cow

@@ -1,0 +1,15 @@
+bag
+bicycle
+car
+aeroplane
+bus
+centaur
+monkey
+carriage
+diningtable
+bottle
+bird
+mug
+building
+cat
+zebra

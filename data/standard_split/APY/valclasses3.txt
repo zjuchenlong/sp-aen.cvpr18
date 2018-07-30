@@ -1,0 +1,7 @@
+diningtable
+train
+aeroplane
+sheep
+bottle
+pottedplant
+tvmonitor

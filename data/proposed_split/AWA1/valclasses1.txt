@@ -1,0 +1,13 @@
+mole
+beaver
+deer
+gorilla
+chimpanzee
+dalmatian
+ox
+giant+panda
+leopard
+hamster
+moose
+rabbit
+raccoon

@@ -1,0 +1,12 @@
+donkey
+monkey
+goat
+wolf
+jetski
+zebra
+centaur
+mug
+statue
+building
+bag
+carriage
